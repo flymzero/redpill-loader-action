@@ -7,8 +7,6 @@
     "DiskIdxMap": "1000",
     "SataPortMap": "4"
   },
-  "synoinfo": {
-    "supportsystemperature": "no",
-    "supportsystempwarning": "no"
-  }
+  "synoinfo": {},
+  "ramdisk_copy": {}
 }
