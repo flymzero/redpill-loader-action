@@ -4,8 +4,8 @@
     "pid": "0x2263",
     "sn": "2020PDN749100",
     "mac1": "001132C5F949",
-    "DiskIdxMap": "1000",
-    "SataPortMap": "4"
+    "DiskIdxMap": "1600",
+    "SataPortMap": "12"
   },
   "synoinfo": {},
   "ramdisk_copy": {}
